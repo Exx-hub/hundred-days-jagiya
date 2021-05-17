@@ -33,7 +33,7 @@ const aprilSaying = {
 	3: "32) He tries to make you laugh all the time.",
 	4: "33) He takes note of the things you like.",
 	5: "34) He is a positive force in your life.",
-	6: "35) You feel comfortable planning things six months—or a year—into the future.",
+	6: "35) You feel comfortable planning things six monthsï¿½or a yearï¿½into the future.",
 	7: "36) He always compliments you and tells you you look pretty.",
 	8: "37) He is endlessly curious about you.",
 	9: "38) He is honest and does not feel a need to pretend around you.",
@@ -49,7 +49,7 @@ const aprilSaying = {
 	19: "48) He is a hundred percent committed to you, the relationship, and everything that comes with. ",
 	20: "49) He has a positive outlook in life, always looking for the silver linings.",
 	21: "50) He has exciting things of his own for things you can do together.",
-	22: "51) He makes sacrifices for you—and you're happy to do the same for him.",
+	22: "51) He makes sacrifices for youï¿½and you're happy to do the same for him.",
 	23: "52) He does not have an expiration date for sure.",
 	24: "53) He tries his best to come on time.",
 	25: "54) He likes most of the same things you do, or tries to start liking them.",
@@ -58,8 +58,8 @@ const aprilSaying = {
 	28: "57) He sparks light in times of darkness for you.",
 	29: "58) You feel every moment with him are precious and he does too.",
 	30: "59) You can picture waking up next to him.",
-	31: "60) They are happy when they see you improve and become a better person."
-}
+	31: "60) They are happy when they see you improve and become a better person.",
+};
 
 const sayings = {
 	1: "61) You can argue with him and still get along, get even closer than ever.",
@@ -78,7 +78,7 @@ const sayings = {
 	14: "73) He wants you to try all the experiences he considers gold, like the movies he considers as must-watch, and even all the must-try food he likes.",
 	15: "74) He is genuinely patient.",
 	16: "75) He goes to Mass with you, and is God-fearing.",
-	17: "76) He is thankful everyday for your existence.",
+	17: "76) He is thankful everyday for your existence!",
 	18: "77) He loves that you are a kid at heart and tries to be one as well.",
 	19: "78) He will do all kinds of chores for you.",
 	20: "79) He supports your ideas and beliefs but does not completely neglect his own.",
@@ -93,7 +93,7 @@ const sayings = {
 	29: "88)",
 	30: "89)",
 	31: "90)",
-}
+};
 
 const juneSayings = {
 	1: "91) ",
@@ -105,9 +105,8 @@ const juneSayings = {
 	7: "97) ",
 	8: "98) ",
 	9: "99) ",
-	10: " 100) He makes a list of a hundred signs so you will be sure he is good for you."
-}
-
+	10: " 100) He makes a list of a hundred signs so you will be sure he is good for you.",
+};
 
 var today = new Date().getDate();
 console.log(today);
