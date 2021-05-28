@@ -89,7 +89,7 @@ const sayings = {
 	25: "84) You are a major factor in his decision making be it what to eat, where to go, even career decisions he has to make.",
 	26: "85) He has met your family.",
 	27: "86) He is consistent.",
-	28: "87) He does not get FOMO when he is with you, he has not better place to go or no better people to be with than be with you.",
+	28: "87) He does not get FOMO when he is with you, he has no better place to go or no better people to be with than with you.",
 	29: "88) He likes doing things for your mom.",
 	30: "89) He is (almost) always paying attention, even to the littlest of details.",
 	31: "90) He drops everything when you need him.",
