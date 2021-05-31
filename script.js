@@ -61,7 +61,7 @@ const aprilSaying = {
 	31: "60) They are happy when they see you improve and become a better person.",
 };
 
-const sayings = {
+const maysayings = {
 	1: "61) You can argue with him and still get along, get even closer than ever.",
 	2: "62) You can argue with him and still get along, get even closer than ever.",
 	3: "63) He would rather be honest with you and risk upsetting you than lie to you.",
@@ -95,10 +95,10 @@ const sayings = {
 	31: "90) He drops everything when you need him.",
 };
 
-const juneSayings = {
-	1: "91) He uses we instead of me.",
+const sayings = {
+	1: "91) You have talked about marriage even at least once, or even joked about it.",
 	2: "92) He introduces you to important people in his life.",
-	3: "93) You have talked about marriage even at least once, or even joked about it.",
+	3: "93) He uses we instead of me.",
 	4: "94) He leans on you for support.",
 	5: "95) You sometimes catch him staring at you.",
 	6: "96) He concedes and submits to you when he needs to.",
